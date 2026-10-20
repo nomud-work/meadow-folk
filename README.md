@@ -1,6 +1,8 @@
 # Meadow Folk
 
-![Meadow Folk group scene](media/group_scene.png)
+![Animated preview of Pip, Wren and Mochi idling, blinking and waving on a painted grassy hillside](media/meadow-folk.webp)
+
+Full-quality video: [media/toon_idle_720p.mp4](media/toon_idle_720p.mp4)
 
 Meadow Folk is three original cel-shaded 3D characters in a painted hillside scene, inspired by the storybook anime look of games like *Ni no Kuni*. They are Pip, a boy adventurer with a cape and a star wand; Wren, a girl archer with a big traveller's hat and a bow; and Mochi, a small round leaf spirit. Everything is built in Godot 4.7.2 with **zero asset files**: the characters, their shader-drawn faces, the sky, the hills, the grass and the trees all come from about 1,650 lines of GDScript.
 
